@@ -1,0 +1,11 @@
+{
+    "MENU": {
+        "SEED": {
+            "SEED-MODULE": "Home",
+            "SEED-PAGE": "Start Page"
+        }
+    },
+    "SEED": {
+        "TITLE": "About OI here"
+    }
+}

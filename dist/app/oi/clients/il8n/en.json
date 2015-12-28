@@ -1,0 +1,11 @@
+{
+    "MENU": {
+        "SEED": {
+            "CLIENTS-MODULE": "Clients",
+            "SEED-PAGE": "Start Page"
+        }
+    },
+    "SEED1  ": {
+        "TITLE": "Clients details here"
+    }
+}

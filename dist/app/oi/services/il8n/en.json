@@ -1,0 +1,11 @@
+{
+    "MENU": {
+        "SEED": {
+            "SERVICES-MODULE": "Services",
+            "SEED-PAGE": "Start Page"
+        }
+    },
+    "SEED": {
+        "TITLE": "About service here"
+    }
+}
